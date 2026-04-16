@@ -1,0 +1,44 @@
+Category,Item,Price
+Hot,Espresso,450
+Hot,Dopio,900
+Hot,Americano,500
+Hot,Latte,650
+Hot,Cappachino,650
+Hot,Ristado,450
+Hot,Picolo,500
+Hot,Hazelnut Latte,800
+Hot,Spanish Latte,700
+Hot,Mocha Latte,850
+Hot,Vanilla Latte,800
+Hot,Caramel Latte,800
+Iced,Iced Americano,500
+Iced,Iced Latte,650
+Iced,Iced Hazelnut Latte,900
+Iced,Iced Vanilla Latte,900
+Iced,Iced Caramel Latte,900
+Iced,Iced Mocha Latte,1000
+Iced,Iced Spanish Latte,800
+Frappe,Signature Coffee Frappe,1200
+Frappe,Latte Frappe,1000
+Frappe,Spanish Frappe,1050
+Frappe,Icecream Frappe,1400
+Frappe,Pistachio Frappe,1200
+Frappe,After Eight,1200
+Frappe,Crème Brulee Frappe,900
+Frappe,Bounty Frappe,1700
+Frappe,Mocha Frappe,1000
+Frappe,Peanut Butter,1000
+Frappe,Blueberry Cheesecake,900
+Frappe,Strawberry Cheesecake,900
+Frappe,Nutella Cheesecake,900
+Frappe,Caramel Cheesecake,900
+Mocktails,Pomi Blast,600
+Mocktails,Pina Passion,850
+Mocktails,Peachy Punch,600
+Mocktails,Guava Bash,600
+Mocktails,Berry Cola,750
+Smoothies,Strawberry Smoothie,950
+Smoothies,Blueberry Smoothie,950
+Macha,Classic Macha,700
+Macha,Strawberry Macha,850
+Macha,Coconut Macha,950
