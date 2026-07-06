@@ -1,11 +1,9 @@
-Category,Item,Price
+﻿Category,Item,Price
 Hot,Espresso,450
-Hot,Dopio,900
+Hot,Dopio,700
 Hot,Americano,500
 Hot,Latte,650
 Hot,Cappachino,650
-Hot,Ristado,450
-Hot,Picolo,500
 Hot,Hazelnut Latte,800
 Hot,Spanish Latte,700
 Hot,Mocha Latte,850
@@ -18,20 +16,24 @@ Iced,Iced Vanilla Latte,900
 Iced,Iced Caramel Latte,900
 Iced,Iced Mocha Latte,1000
 Iced,Iced Spanish Latte,800
-Frappe,Signature Coffee Frappe,1200
-Frappe,Latte Frappe,1000
-Frappe,Spanish Frappe,1050
-Frappe,Icecream Frappe,1400
-Frappe,Pistachio Frappe,1200
+Frappe,Signature Vanilla Frappe,1200
+Frappe,Signature Mocha Frappe,1200
+Frappe,Signature Pista Frappe,1200
+Frappe,Signature Strawberry Frappe,1200
+Frappe,Fudge Mocha Frappe,1200
+Frappe,Trippleberry Frappe,1200
+Frappe,Matcha Frappe,1200
 Frappe,After Eight,1200
-Frappe,Cr�me Brulee Frappe,900
-Frappe,Bounty Frappe,1700
-Frappe,Mocha Frappe,1000
+Frappe,Bounty Frappe,1200
 Frappe,Peanut Butter,1000
+Frappe,Crème Brulee Frappe,1000
 Frappe,Blueberry Cheesecake,900
 Frappe,Strawberry Cheesecake,900
 Frappe,Nutella Cheesecake,900
 Frappe,Caramel Cheesecake,900
+Mocktails,Mango Salsa,750
+Mocktails,Apple Peach,600
+Mocktails,Mojito,850
 Mocktails,Pomi Blast,600
 Mocktails,Pina Passion,850
 Mocktails,Peachy Punch,600
@@ -39,9 +41,21 @@ Mocktails,Guava Bash,600
 Mocktails,Berry Cola,750
 Smoothies,Strawberry Smoothie,950
 Smoothies,Blueberry Smoothie,950
-Macha,Classic Macha,700
-Macha,Strawberry Macha,850
-Macha,Coconut Macha,950
+Smoothies,Mixberry Smoothie,950
+Smoothies,Mango Smoothie,950
+Matcha,Classic Matcha,700
+Matcha,Strawberry Matcha,850
+Matcha,Coconut Matcha,950
+Matcha,Mango Matcha,950
+All Day,English Breakfast,1100
+All Day,Shakshouka,700
+All Day,Beef Quesadilla,1000
+All Day,Croissant Egg Sandwich,900
+All Day,Chicken Parmesan Sandwich,1250
+All Day,Beef Philly Steak Sandwich,1500
+Desserts,French Toast,700
 Desserts,Mini Pancakes,800
-Desserts,Cookie,300
+Desserts,Cookie,350
+Desserts,Filled Cookie,400
 Desserts,Brownie,300
+Desserts,Butter Croissant,300

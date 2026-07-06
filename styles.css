@@ -158,14 +158,25 @@ body::before {
 }
 
 .item {
-  display: flex;
-  align-items: baseline;
+  display: block;
   padding: 10px 0;
-  gap: 8px;
 }
 
 .item + .item {
   border-top: 1px solid rgba(232, 216, 196, 0.5);
+}
+
+.item-row {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+
+.item-desc {
+  font-size: 0.78rem;
+  color: var(--color-text-muted);
+  margin-top: 3px;
+  line-height: 1.45;
 }
 
 .item-name {
